@@ -57,4 +57,5 @@ result_Frame.pack(fill="x", padx=50)
 result_label = ctk.CTkLabel(result_Frame, text="", font=ctk.CTkFont(size=20))
 result_label.pack(padx=10, pady=20)
 
+
 window.mainloop()
